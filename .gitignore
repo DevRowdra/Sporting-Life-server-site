@@ -1,0 +1,5 @@
+node_modules
+.env
+user.json
+index.json
+.vercel
